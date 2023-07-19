@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">secondtask_2_login_andsignup</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_any_account_sign_up">Don\'t have any account Sign Up</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="user_name">User Name</string>
+    <string name="password_confirm">Password Confirm</string>
+</resources>
